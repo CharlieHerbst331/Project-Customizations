@@ -46,11 +46,8 @@ To get the most out of this course, you should:
 
 ## 🏁 Ready to Begin?
 
-<div align="center">
-  <a href="https://github.com/CharlieHerbst331/Project-Customizations-Template/generate" target="_blank">
-    <img src="https://img.shields.io/badge/START%20COURSE-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Start Course">
-  </a>
-</div>
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=CharlieHerbst331&template_name=Project-Customizations-Template&owner=%40me&name=github-projects-design-customization&description=My+GitHub+Projects+for+design+workflows+course&visibility=public)
+
 
 ## 📚 Related Resources
 
@@ -66,3 +63,6 @@ If you encounter any issues during the course:
 - Visit the [GitHub Community Forum](https://github.community/)
 
 Happy learning!
+
+
+
